@@ -1,0 +1,8 @@
+{
+  "name": "Institutional Crypto Fraud Detection Engine",
+  "description": "Autonomous AI-powered real-time transaction tracking and cryptocurrency threat analytics platform utilizing Binance live feeds.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
